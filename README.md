@@ -20,5 +20,8 @@
 
 
 
+![Screen recording](/images/trendyol4.gif)
+
+
 
 
