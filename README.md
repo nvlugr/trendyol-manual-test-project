@@ -8,3 +8,17 @@
 
 ![Test Case Document](/images/sc1.png)
 ![part2](/images/sc2.png)
+
+
+### Bug Report: 
+
+![Bug report](/images/sc3.png)
+
+
+
+##### Screen Recording for the Trend-1 Bug:
+
+
+
+
+
